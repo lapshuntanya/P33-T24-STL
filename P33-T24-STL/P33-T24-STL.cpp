@@ -11,6 +11,7 @@ int main()
     b.print();
     c.print();
 
-
+    Array<string> d(3, "Hello itSTEP! ");
+    d.print();
 }
 
